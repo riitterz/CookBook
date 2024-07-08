@@ -5,7 +5,8 @@
 <img width="285" alt="Screenshot 2024-07-08 at 10 29 06" src="https://github.com/riitterz/CookBook/assets/91329962/cbf16729-625c-488a-813f-2d603c164ef8">
 
 
-CookBook is a recipe app that I built almost from scratch using Spoonacular API and Figma for building my own design.
+CookBook is a UIKit recipe app that I built almost from scratch using Spoonacular API and Figma for building my own design.
 
 Figma project - - https://www.figma.com/design/WhwYgAdXQTGwwDMxTzmDvl/Untitled?node-id=0-1&t=wg7Aj5kTeokRmjF8-0
+
 Spoonacular API - - https://spoonacular.com/food-api
